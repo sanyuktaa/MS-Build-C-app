@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World! Virus is gone forever - 2!");
+            Console.WriteLine("Hello World! Virus is gone forever - 3!");
         }
     }
 }

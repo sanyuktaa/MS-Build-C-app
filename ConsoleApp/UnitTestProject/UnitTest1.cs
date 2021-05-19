@@ -7,7 +7,7 @@ namespace UnitTestProject
     [TestClass]
     public class UnitTest1
     {
-        private const string Expected = "Hello World! Virus is gone forever - 2!";
+        private const string Expected = "Hello World! Virus is gone forever - 3!";
         [TestMethod]
         public void TestMethod1()
         {
